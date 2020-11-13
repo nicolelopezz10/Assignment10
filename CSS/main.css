@@ -1,0 +1,23 @@
+
+body {
+  background: #d2ff94;
+}
+
+#figure3{
+  display: block;
+  background: #fff;
+  padding: 1rem;
+  margin-left: 2rem;
+};
+
+#caption3{
+display: block;
+
+};
+
+.rotate-right {
+  transform: rotate(20deg);
+}
+
+.rotate-left {
+  transform: rotate(-10deg);
